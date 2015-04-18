@@ -5,7 +5,7 @@ Form validation class written in PHP
 PHP5
 ### Usage
 test.php:
-```
+```php
 <?php
 
 include("class.formvalidate.php");
